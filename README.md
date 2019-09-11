@@ -32,13 +32,14 @@ class MyJSXComponent extends Component {
 ### Will be compiled to
 
 ```jsx
-class Class1Declaration extends Component {
+class MyJSXComponent extends Component {
   firstName = "Bob";
   static template = hbs`<div>{{this.firstName}} {{@lastName}}</div>`;
 }
 ```
 
-for more jsx compilation information take alook at 
+For more `jsx` compilation information take alook at:
 
 [lifeart/ember-cli-jsx-templates](https://github.com/lifeart/ember-cli-jsx-templates)
+
 [lifeart/ember-meta-explorer](https://github.com/lifeart/ember-meta-explorer)
