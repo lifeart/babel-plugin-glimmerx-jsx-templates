@@ -1,0 +1,23 @@
+{
+    "name": "babel-plugin-glimmerx-jsx-templates",
+    "version": "0.0.1",
+    "description": "Compiles JSX templates into HBS",
+    "repository": "https://github.com/lifeart/babel-plugin-glimmerx-jsx-templates",
+    "author": "Aleksandr Kanunnikov <lifeart92@gmail.com>",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+      "test": "mocha -r esm"
+    },
+    "dependencies": {
+      "ember-meta-explorer": "^0.0.40"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.5.5",
+      "@babel/plugin-syntax-jsx": "^7.2.0",
+      "babel-plugin-tester": "^6.5.0",
+      "esm": "^3.2.25",
+      "mocha": "^6.2.0"
+    }
+  }
+  
