@@ -4,8 +4,9 @@ This is plugin for `glimmer-x` project, allow to work with `.jsx/tsx` templates 
 
 How to use it? 
 
-1.) Install plugin `yarn add babel-plugin-glimmerx-jsx-templates -dev`
-2.) Install jsx syntax plugin `yarn add @babel/plugin-syntax-jsx -dev`
+1.) Install plugin `yarn add babel-plugin-glimmerx-jsx-templates --dev`
+
+2.) Install `jsx` syntax plugin `yarn add @babel/plugin-syntax-jsx --dev`
 
 
 ### .babelrc
