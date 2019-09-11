@@ -1,6 +1,6 @@
 # babel-plugin-glimmerx-jsx-templates
 
-This is plugin for `glimmer-x` project, allow to work with `.jsx/tsx` templates in components.
+This is plugin for [`glimmer-x`](https://github.com/tomdale/glimmer-lite-donut) project, allow to work with `.jsx/tsx` templates in components.
 
 How to use it? 
 
